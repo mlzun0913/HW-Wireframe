@@ -41,7 +41,7 @@ You must give a full effort on every group and individual project.
 ## Important Links And Notes
 
 
-[Slack Room](UPDATE)
+[Slack Room (UPDATE URL)](http://updatethis.com)
 
 
 [Absence Request Form](https://docs.google.com/forms/d/1raQkqL-QjLOEy6CzeC_TXGX-hvKZ3ncrfYYxK9fwREQ/viewform)
